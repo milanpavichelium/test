@@ -32,7 +32,7 @@ function App() {
             className="App-link"
             href="https://vitejs.dev/guide/features.html"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noopener noreferrer sdsad"
           >
             Vite Docs
           </a>
